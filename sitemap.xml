@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Home page -->
+    <url>
+        <loc>https://nebulatechbots.zone.id/</loc>
+        <lastmod>2025-11-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Dashboard / main page -->
+    <url>
+        <loc>https://nebulatechbots.zone.id/dashboard/</loc>
+        <lastmod>2025-11-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- About / Info page -->
+    <url>
+        <loc>https://nebulatechbots.zone.id/about/</loc>
+        <lastmod>2025-11-09</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Contact page -->
+    <url>
+        <loc>https://nebulatechbots.zone.id/contact/</loc>
+        <lastmod>2025-11-09</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- PWA manifest -->
+    <url>
+        <loc>https://nebulatechbots.zone.id/manifest.json</loc>
+        <lastmod>2025-11-09</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+</urlset>
